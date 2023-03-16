@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ravish4532/game.git/static/css/main.77efde6d.css",
+    "main.js": "/Ravish4532/game.git/static/js/main.faba94ec.js",
+    "static/js/787.252c5a3f.chunk.js": "/Ravish4532/game.git/static/js/787.252c5a3f.chunk.js",
+    "index.html": "/Ravish4532/game.git/index.html",
+    "main.77efde6d.css.map": "/Ravish4532/game.git/static/css/main.77efde6d.css.map",
+    "main.faba94ec.js.map": "/Ravish4532/game.git/static/js/main.faba94ec.js.map",
+    "787.252c5a3f.chunk.js.map": "/Ravish4532/game.git/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77efde6d.css",
+    "static/js/main.faba94ec.js"
+  ]
+}
